@@ -1,0 +1,8 @@
+{
+  "name": "Image Background Remover",
+  "description": "Upload and manage project images, automatically identify and remove common background areas, inspect live production previews, crop, resize, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
